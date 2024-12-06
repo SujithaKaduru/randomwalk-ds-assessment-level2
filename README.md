@@ -46,4 +46,9 @@ Q7: Find the maximum flipper_length_mm for each combination of species and islan
 
 Q8: Perform z-score normalization on this dataset. (code)
 
+## Solutions to the Assignment:
+
+The solutions to the assignment questions are available in the [assignment_solution.ipynb] notebook.
+
+
 
