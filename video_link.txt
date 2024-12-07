@@ -1,0 +1,6 @@
+<html>
+  <body>
+    <h2>Screencast Video</h2>
+    <p>The solutions to the assignment questions are available in the <a href="https://drive.google.com/drive/folders/1M-tE7cE8H-O4p3MVF-6czoOz54R2iWiU?usp=sharing">screencast video</a>.</p>
+  </body>
+</html>
