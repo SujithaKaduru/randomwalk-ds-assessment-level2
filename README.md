@@ -48,7 +48,7 @@ Q8: Perform z-score normalization on this dataset. (code)
 
 ## Solutions to the Assignment:
 
-The solutions to the assignment questions are available in the [assignment_solution.ipynb] notebook.
+The solutions to the assignment questions are available in the [assignment_solution.ipynb](Randomwalk_DS_Assignment.ipynb) notebook.
 
 ## Screencast Video
 
