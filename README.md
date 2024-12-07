@@ -50,5 +50,11 @@ Q8: Perform z-score normalization on this dataset. (code)
 
 The solutions to the assignment questions are available in the [assignment_solution.ipynb] notebook.
 
+## Screencast Video
+
+The screencast demonstrating the solution can be viewed here: [Watch the Screencast Video](https://drive.google.com/drive/folders/1M-tE7cE8H-O4p3MVF-6czoOz54R2iWiU?usp=sharing)
+
+
+
 
 
